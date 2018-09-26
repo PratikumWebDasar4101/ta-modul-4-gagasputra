@@ -1,0 +1,46 @@
+.login {
+    color: white;
+    background-color:rgb(98, 98, 98);
+    padding: 1%;
+    margin: 0 42.5% ;
+    border-radius: 0 0 10px 10px;
+}
+
+.input {
+    color: white;
+    padding: 1%;
+    float: left;
+    background-color:rgb(98, 98, 98);
+    width: 53%;
+    margin: 0 22%;
+    border-radius: 0 0 0 10px;   
+}
+
+#judul {
+    text-align: center;
+}
+
+#pertama {
+    float: left;
+}
+
+#seterusnya {
+    margin-left: 5%;
+    float: left;
+}
+
+#submit {
+    margin-top: 30%;
+    margin-left: -50%;
+    float: left;
+}
+
+#tombols {
+    margin-right: 23%;
+    float: right;
+    border-radius: 0 0 10px 10px;
+}
+
+#tombol {
+    float: right;
+}
